@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="app_header_name">Currency Converter</string>
+    <string name ="convert_symbol">Convert Symbol</string>
+    <string name ="currency_type_instruction">Select your currency type</string>
+    <string name ="money_number_instruction">Money number</string>
+    <string name ="money_number_instruction2">Other Money number</string>
+
+    <string name="custom_spinner_item_name">name of item</string>
+    <string name="image_description_for_custom_spinner">country flag</string>
+</resources>
